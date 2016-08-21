@@ -18,3 +18,4 @@ Una lista curada de proyectos de tecnología cívica en México.
 * [Compranet Fácil](http://compranetfacil.com/)
 * [INE Fácil](http://inefacil.com/)
 * [Transparencia Presupuestaria](http://www.transparenciapresupuestaria.gob.mx/)
+* [Social Maps](http://usocialmaps.com/)
